@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Yongsan-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "효창공원,서울 용산구 효창동 255번지 일대,02-2199-7593\n노들텃밭,(140-030) 서울특별시 용산구 양녕로 445 노들텃밭 지원센터,02-792-7520\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

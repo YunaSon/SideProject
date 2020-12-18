@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Dongdeamoon-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "용두공원,산과공원,(130-070) 서울특별시 동대문구 용두동 34-1번지 일대,02-2127-4772\n간데메공원,산과공원,서울특별시 동대문구 서울시립대로2길 59,02-2249-2770\n답십리공원,산과공원,서울특별시 동대문구 답십리동  산2-9일대,02-2127-4772\n배봉산공원,산과공원,서울특별시 동대문구 전농동 32-20번지,02-2127-4772"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

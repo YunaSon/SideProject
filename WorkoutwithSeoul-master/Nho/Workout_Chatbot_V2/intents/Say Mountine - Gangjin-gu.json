@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Gangnam-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "아차산 생태공원,생태탐방,서울특별시 광진구 광장동 307번지,02-450-7773 02-450-1192\n서울어린이대공원,산과공원,서울특별시 광진구 능동로 216,02-450-931"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Sungdong-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "금호근린공원,산과공원,(133-093) 서울특별시 성동구 금호동3가 1266외 1필지,02-2286-6319\n달맞이근린공원,산과공원,(133-094) 서울특별시 성동구 금호동4가 산27외 35필지,02-2286-6319\n서울숲,산과공원,(133-111) 서울특별시 성동구 뚝섬로 273(성수1가1동 685) ,02-460-2901\n성수공원,산과공원,서울특별시 성동구 성수2가 302-25,02-2286-6319"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

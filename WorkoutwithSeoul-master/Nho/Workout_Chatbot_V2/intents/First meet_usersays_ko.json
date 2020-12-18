@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c8d1b97a-91dd-4685-b8a4-699e50546c5b",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c17dbb0c-b72a-47f1-9a8a-580f11ef3d22",
+    "data": [
+      {
+        "text": "/start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

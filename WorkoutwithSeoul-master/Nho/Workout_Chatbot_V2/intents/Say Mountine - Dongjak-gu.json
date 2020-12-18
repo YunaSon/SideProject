@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Dongjak-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "국립현충원,서울특별시 동작구 현충로 65,02-815-0625\n까치산공원,서울특별시 동작구 사당동 산32,02-820-1395\n노량진공원,서울특별시 동작구 대방동 23-176,02-820-1395\n보라매공원,서울특별시 동작구 여의대방로 20길33(신대방동 395),02-2181-1187~96\n사육신공원,서울특별시 동작구 노량진동 152-3,02-820-1395\n삼일공원,(156-090) 서울특별시 동작구 사당동 산24-17,02-820-9845\n상도공원,서울특별시 동작구 상도동 산75,02-820-9848\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

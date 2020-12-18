@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Dobong-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "초안산근린공원,산과공원,서울 도봉구 창동 산48-4번지 일대,02-2091-3753\n초안산생태공원,산과공원,(132-040) 서울특별시 도봉구 창동 산157번지,02-2091-3753\n발바닥공원,산과공원,(132-023) 서울특별시 도봉구 방학3동 270-1,02-2091-3772\n서울창포원,산과공원,서울시 도봉구 마들로 916(도봉동 4-2),02-954-0031\n쌍문근린공원,산과공원,132 - 030 서울 도봉구 쌍문동 산80,02-2091-3754\n월천근린공원,산과공원,(132-040) 서울특별시 도봉구 창동 28번지,02-2091-3754"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

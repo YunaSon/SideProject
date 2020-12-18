@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Gangdong-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "일자산 도시자연공원	산과공원	서울 강동구 동남로 660(둔촌동 산 140번지) 일대	02-3425-6440\n천호공원	산과공원	서울특별시 강동구 올림픽로 702(천호동360번지)	02-489-2776\n고덕동 생태경관보전지역	생태탐방	강동구 고덕동 396일대(암사정수장~하남시계 구간의 한강수변)	02-2115-7550~5 02-3780-0865~6\n길동자연생태공원	생태탐방	서울특별시 강동구 길동 3번지	02-472-2770\n둔촌동 생태경관보전지역	생태탐방	강동구 둔촌동 212번지 일대(둔촌주공아파트 뒤편 오리나무숲)	02-2115-7550~5 02-480-1395\n암사동 생태경관보전지역	생태탐방	강동구 암사동 624-1번지 일대(한강시민공원 광나루지구내 갈대군락)	02-2115-7550~5 02-3780-0865~6\n길동생태공원	산과공원	서울특별시 강동구 천호대로 1291(둔촌동 558)	02-472-2770\n동명근린공원	산과공원	서울특별시 강동구 고덕동 229일대	02-3425-6440\n명일근린공원	산과공원	서울특별시 강동구 상일동 135일대	02-3425-6440\n샛마을근린공원	산과공원	서울특별시 강동구 구천면로 429(명일동 288번지)	02-3425-6440\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

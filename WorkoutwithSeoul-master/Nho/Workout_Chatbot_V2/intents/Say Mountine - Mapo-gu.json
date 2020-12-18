@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Mapo-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "와우공원,산과공원,(121-880) 서울특별시 마포구 창전동 3-193번지 일대(홍익대 뒷산),02-3153-9553\n외국인묘지공원,산과공원,서울 마포구 합정동 145- 8일대,02-332-9175\n월드컵공원,산과공원,서울특별시 마포구 월드컵로 243-60(성산동 390-1)일대,02-300-5500~2\n월드컵공원,생태탐방,서울특별시 마포구 상암동 549번지,02-300-5524~6\n한강밤섬 생태경관보전지역,생태탐방,윗밤섬-영등포구 여의도동 84번지 일대 아랫밤섬-마포구 당인동 313번지 일대,02-2115-7550~5 02-3780-0793~4\n상암근린공원,산과공원,(121-270) 서울특별시 마포구 상암동 1693번지,02-3153-9553"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

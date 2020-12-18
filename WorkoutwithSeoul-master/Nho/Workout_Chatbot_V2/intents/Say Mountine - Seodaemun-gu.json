@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Seodaemun-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "안산공원,서울특별시 서대문구 홍제동 산33번지 일대,02-330-1395\n인왕산 생태경관보전지역,서대문구 홍제동 산1-1번지 일대 종로구 옥인동 산3-14 일대,02-2115-7550~5\n궁동공원,서울특별시 서대문구 연희동 산118번지 일대,02-330-1395\n백련공원,서울특별시 서대문구 홍은동 산11번지 일대,02-330-1395\n북한산국립공원,서울특별시 종로구 평창동 구기동 서대문구 홍은동 성북구 정릉동 성북동 일대,02-909-0497~8\n서대문독립공원,서울특별시 서대문구 통일로251(현저동 101번지) 일대,02-364-4686\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

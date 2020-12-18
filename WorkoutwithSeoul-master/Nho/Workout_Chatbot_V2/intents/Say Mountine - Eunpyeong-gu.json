@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Eunpyeong-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "진관내동 생태경관보전지역,은평구 진관동 282-1번지 일대(북한산국립공원 북한산성 입구 주변 습지 ),02-2115-7550~5\n봉산 생태경관보전지역,은평구 신사동 산93-16번지 일대(봉산 도시자연공원내 팥배나무군락),02-2115-7550~5\n갈현근린공원,서울특별시 은평구 불광동 ,02-351-8001~8005\n구파발폭포(진관근린공원),서울특별시 은평구 진관동 393,02-387-0236\n봉산도시자연공원,서울특별시 은평구 구산동 산61,02-351-8002 ~ 8005\n불광근린공원,서울특별시 은평구 불광동 산33-1 일원,02-351-8002 ~ 8005\n신사근린공원,서울 은평구 신사동,02-351-8001~8005"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

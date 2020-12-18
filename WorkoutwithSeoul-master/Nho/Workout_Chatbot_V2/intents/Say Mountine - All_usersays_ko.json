@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5075559f-3e42-426b-bc0e-03d4c22de21c",
+    "data": [
+      {
+        "text": "모두",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b418747-90ec-4369-89db-a38413b65cbc",
+    "data": [
+      {
+        "text": "전부",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1033aeb6-22c2-4a47-9be9-1affc2558a99",
+    "data": [
+      {
+        "text": "모든 산",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

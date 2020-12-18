@@ -1,0 +1,36 @@
+{
+  "id": "066783bd-167c-4835-a16d-71bd1b780b61",
+  "parentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "rootParentId": "99de1042-6579-4a0a-ae30-b0a985aaae4c",
+  "name": "Say Mountine - Seocho-gu",
+  "auto": true,
+  "contexts": [
+    "SayMountine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SayMountine.SayMountine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "condition": "",
+          "speech": "청계산원터골 생태경관보전지역,생태탐방,서초구 원지동 산4-38번지 일대(청계산 도시자연공원내 원터골 주변 산림),02-2115-7550~5 02-570-6396\n우면산 자연생태공원,생태탐방,서초구 우면동 산34-1,02- 570-6395 02-570-6379\n헌인릉 생태경관보전지역,생태탐방,서초구 내곡동 산13-1 일대(헌인릉내 오리나무숲),02-2115-7550~5 02-570-6396 02-445-0347\n서초문화예술공원,산과공원,(137-130) 서울특별시 서초구 양재동 200번지,02-2155-6864\n시민의숲,산과공원,서울특별시 서초구 매헌로 99(양재동236),02-575-3895\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
